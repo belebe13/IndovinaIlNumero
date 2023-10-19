@@ -1,4 +1,2 @@
-git init
-touch README.md
-git add .
-git commit -m "Primo commit"
+mkdir IndovinaIlNumero
+cd IndovinaIlNumero
